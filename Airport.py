@@ -1,9 +1,6 @@
 """
 ******************************
-CS 1026 - Assignment 4
 Code by: Muniver Kharod
-Student ID: mkharod2
-File created: December 3, 2024
 ******************************
 Defines the Airport class for managing airport information.
 """
