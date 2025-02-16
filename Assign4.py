@@ -1,9 +1,6 @@
 """
 ******************************
-CS 1026 - Assignment 4 - Main Program
 Code by: Muniver Kharod
-Student ID: mkharod2
-File created: December 3, 2024
 ******************************
 Loads airport and flight data, supports flight analysis, and handles queries.
 """
